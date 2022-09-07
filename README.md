@@ -1,7 +1,9 @@
-### Olá, tudo bem? Sou o Thalys e adoro coisas novas e fora da curva, como inovação, empreedorismo e claro tecnologia, e claro como alguém que adora empreendorismo já tentou algo e quebrou como tentei uma startup de aplicativo de supermercado, mas não deu certo na epoca era em 2017/2018, mas em 2019 tentei novamente com app de mobilidade urbana, então foi criado a 88 uai e deu certo, e vendi a mesma em 2021 e ainda roda na minha cidade no interior de Minas Gerais.
-### Bom e sempre procuro estudar coisas diferente fora do que uso no meu dia a dia, onde procuro estudar sobre desenvolvimento com python, flutter e unity por achar legal desenvolver games e app de realidade aumentada e realidade virtual, python por estudar um pouco sobre machine learning usando openVC 
+## Olá, tudo bem? Sou o Thalys 
+<p> adoro coisas novas e fora da curva, como inovação e tecnologia; claro como alguém que adora empreendorismo e tentou algo que quebrou como a startup de aplicativo de supermercado que não deu certo em 2017/2018, mas em 2019 tentei novamente com app de mobilidade urbana, então foi criado a 88 uai que foi  vendida em 2021 e ainda vigora na minha cidade, interior de Minas Gerais.
 
-### Ferramentas e Tecnologias Do Meu Dia a Dia
+Bom, sempre procuro estudar coisas diferentes e fora do que uso no meu dia a dia, onde procuro me atualizar sobre desenvolvimento com flutter e unity por achar legal desenvolver games e app de realidade aumentada e virtual, e python por estudar um pouco sobre machine learning usando openVC</p>
+
+## Ferramentas e Tecnologias Do Meu Dia a Dia 🔨
 <div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
@@ -18,7 +20,7 @@
 
 </div>
 
-### Tecnologia e coisas que estudo por hobby
+## Tecnologia e coisas que estudo por hobby 🔍
 <div> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 
@@ -34,7 +36,7 @@
 </div>          
           
           
-
+ ## Meus contatos
 <div>
 <a href="https://instagram.com/thalysmc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:thalyscosta99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
