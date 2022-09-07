@@ -2,6 +2,7 @@
 ### Bom e sempre procuro estudar coisas diferente fora do que uso no meu dia a dia, onde procuro estudar sobre desenvolvimento com python, flutter e unity por achar legal desenvolver games e app de realidade aumentada e realidade virtual, python por estudar um pouco sobre machine learning usando openVC 
 
 ### Ferramentas e Tecnologias Do Meu Dia a Dia
+<div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 
@@ -15,7 +16,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
 
-
+</div>
 ### Tecnologia e coisas que estudo por hobby
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
