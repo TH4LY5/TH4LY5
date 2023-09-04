@@ -1,60 +1,30 @@
-## Olá, tudo bem? Sou o Thalys 
-<p> adoro coisas novas e fora da curva, como inovação e tecnologia; claro como alguém que adora empreendorismo e tentou algo que quebrou como a startup de aplicativo de supermercado que não deu certo em 2017/2018, mas em 2019 tentei novamente com app de mobilidade urbana, então foi criado a 88 uai que foi  vendida em 2021 e ainda vigora na minha cidade, interior de Minas Gerais.
+# Bem-vindo ao meu perfil do GitHub!
 
-Bom, sempre procuro estudar coisas diferentes e fora do que uso no meu dia a dia, onde procuro me atualizar sobre desenvolvimento com flutter e unity por achar legal desenvolver games e app de realidade aumentada e virtual, e python por estudar um pouco sobre machine learning usando openVC</p>
+Olá, sou Thalys Matos Costa. Vivo no interior de Minas Gerais e sou apaixonado por inovação, tecnologia e empreendedorismo. Em 2019, fundei a 88 uai, uma startup de mobilidade urbana que foi vendida em 2021 e continua ativa na minha cidade.
 
-## Ferramentas e Tecnologias Do Meu Dia a Dia 🔨
-<div>
+Atualmente, trabalho com as seguintes ferramentas e tecnologias no meu dia a dia:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+- Java
+- Spring Framework
+- AngularJS
+- Visual Studio Code
+- GitHub
+- GitLab
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+Além disso, me dedico ao estudo de tecnologias por hobby, incluindo:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+- Python
+- OpenCV
+- Flutter
+- C#
+- Unity
+- Qt
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+Você pode entrar em contato comigo pelos seguintes meios:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+- Email: [thalyscosta99@gmail.com](mailto:thalyscosta99@gmail.com)
+- LinkedIn: [linkedin.com/in/thalys-matos-costa](https://www.linkedin.com/in/thalys-matos-costa)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
+Fique à vontade para explorar meus projetos e entre em contato para colaborações ou apenas para trocar ideias. Vamos construir algo incrível juntos!
 
-</div>
-
-## Tecnologia e coisas que estudo por hobby 🔍
-<div> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>          
-                    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="40" height="40"/>
-</div>          
-          
-          
- ## Meus contatos
-<div>
-<a href = "mailto:thalyscosta99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/thalys-matos-costa-41ba15138/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-
-
-<!--
-**TH4LY5/TH4LY5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Followers](https://img.shields.io/github/followers/TH4LY5?style=social)](https://github.com/TH4LY5?tab=followers)
