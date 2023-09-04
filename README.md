@@ -6,7 +6,7 @@ Atualmente, trabalho com as seguintes ferramentas e tecnologias no meu dia a dia
 
 - Java
 - Spring Framework
-- AngularJS
+- Angular
 - Visual Studio Code
 - GitHub
 - GitLab
